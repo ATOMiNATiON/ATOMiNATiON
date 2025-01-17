@@ -1,8 +1,5 @@
 ### About me:
 I am a student at UC Santa Cruz, majoring in Computer Engineering.
-- I work on side projects when I have free time
-- Currently very good with python, will learn other languages
-- Feel free to contact me if you have any questions!
 
 
 <!--
